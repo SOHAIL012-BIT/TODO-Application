@@ -1,0 +1,79 @@
+body{
+    background-color: #e6e6e6;
+}
+header{
+    text-align: center;
+    font-size: 36pt;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+    margin-top: 50px;
+}
+.main{
+    text-align: center;
+    padding-top: 50px;
+}
+.add{
+    background-color: blue;
+    color: white;
+   height: 50px;
+   border: none;
+   font-size: 18pt;
+   font-weight: bold;
+   margin-left: 20px;
+   margin-right: 20px;
+   width: 150px;
+   box-shadow: 3px 3px 4px 5px rgb(180, 179, 179); 
+}
+.delete{
+    background-color:red;
+    color: white;
+   height: 50px;
+   border: none;
+   font-size: 18pt;
+   font-weight: bold;
+   width: 150px;
+   box-shadow: 3px 3px 4px 5px rgb(180, 179, 179); 
+}
+.ulList{
+    text-align: center;
+    margin-left: 20px;
+   margin-right: 20px;
+}
+.inputfield{
+height: 40px;
+border-top: none;
+border-left: none;
+border-right: none;
+width: 400px;
+background-color: #e6e6e6;
+font-family:Arial, Helvetica, sans-serif;
+font-size: 18pt;
+}
+
+.editbutton{
+   background-color: #0d0d0d;
+    color: white;
+   height: 40px;
+   border: none;
+   font-size: 18pt;
+   margin-left: 20px;
+   margin-right: 20px;
+   width: 100px;
+   box-shadow: 3px 3px 4px 5px rgb(180, 179, 179); 
+}
+.buttondelete
+{
+    background-color: #0d0d0d;
+    color: white;
+   height: 40px;
+   border: none;
+   font-size: 18pt;
+   margin-left: 20px;
+   margin-right: 20px;
+   width: 150px;
+   box-shadow: 3px 3px 4px 5px rgb(180, 179, 179); 
+}
+li{
+    margin-top: 20px;
+    font-size: 30pt;
+}
